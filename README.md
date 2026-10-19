@@ -1,5 +1,4 @@
-# Primera linea del README.md del clon - Modificado desde develop
-
+# Primera linea del README.md del clon - Modificado desde ambas ramas
 
 SALMONTRUCO
 
