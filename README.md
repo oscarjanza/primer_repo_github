@@ -2,3 +2,5 @@
 
 
 SALMONTRUCO
+
+dios a muerto y nosotros lo hemos matado
