@@ -1,7 +1,6 @@
 # Primera linea del README.md del clon
 
-
-SALMONTRUCO
+SALMONTRUCO fallido
 
 dios a muerto y nosotros lo hemos matado
 
